@@ -10,6 +10,7 @@
 }
 .list {
   text-align: center;
+  list-style-type: square;
 }
 .link {
   text-decoration: underline;
@@ -44,9 +45,6 @@
   position: absolute;
   top: 500px;
   left: 700px;
-}
-.list {
-  list-style-type: square;
 }
 .table1 {
   border: 1px solid black;
