@@ -45,7 +45,6 @@
 }
 .flex-container-test1 {
   display: flex;
-  justify-content:space-between;
   border: 1px solid black;
   width: auto;
   height: 50px;
@@ -118,7 +117,6 @@
 .flex-container-test4 {
   display: flex;
   flex-direction:column;
-  align-items:flex-end;
   gap: 40px;
   width: 100%;
 }
