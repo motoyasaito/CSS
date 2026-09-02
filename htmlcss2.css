@@ -95,8 +95,17 @@
   text-align: center;
   border: 1px solid #ddd;
 }
-.table-th1 {
-   padding: 12px 20px;
+.table-th1-1 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-th1-2 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-th1-3 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
 }
 .table-tr2 {
   text-align: center;
@@ -105,8 +114,17 @@
 .table-tr2:hover {
   background-color: #f2f2f2;
 }
-.table-td1 {
+.table-td1-1 {
   padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td1-2 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td1-3 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
 }
 .table-tr3 {
   text-align: center;
@@ -115,8 +133,17 @@
 .table-tr3:hover {
   background-color: #f2f2f2;
 }
-.table-td2 {
+.table-td2-1 {
   padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td2-2 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td2-3 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
 }
 .table-tr4 {
   text-align: center;
@@ -125,6 +152,15 @@
 .table-tr4:hover {
   background-color: #f2f2f2;
 }
-.table-td3 {
+.table-td3-1 {
   padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td3-2 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+}
+.table-td3-3 {
+  padding: 12px 20px;
+  border: 1px solid #ddd;
 }
