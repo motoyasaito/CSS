@@ -1,0 +1,92 @@
+.background-color {
+  display: flex;
+  background-color: #f7f7f7;
+  font-family: Arial, sans-serif;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+.profile-card {
+  display: flex;
+  background-color: #fff;
+  flex-direction: column;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  width: 300px;
+   margin-bottom: 40px;
+}
+.profile-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.profile-name {
+
+  font-size: 24px;
+  margin: 10px;
+}
+.profile-job {
+  font-size: 16px;
+  color: #666;
+}
+.int {
+  display: flex;
+  width: 80%;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.int-h2 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 2%;
+}
+.int-table-collapse {
+  text-align: left;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  border-collapse: collapse;
+}
+.int-table-head {
+  background-color: #0078D4;
+  color: white;
+}
+.int-table-th1 {
+  padding: 12px 20px;
+}
+.int-table-td1 {
+  padding: 12px 20px;
+}
+.int-table-tr1 {
+  border-bottom: 1px solid #ddd;
+}
+.int-table-tr1:hover {
+  background-color:  #f2f2f2;
+}
+.int-table-td2 {
+  padding: 12px 20px;
+}
+.int-table-tr2 {
+  border-bottom: 1px solid #ddd;
+}
+.int-table-tr2:hover {
+  background-color:  #f2f2f2;
+}
+.int-table-td3 {
+  padding: 12px 20px;
+}
+.int-table-tr3 {
+  border-bottom: 1px solid #ddd;
+}
+.int-table-tr3:hover {
+  background-color:  #f2f2f2;
+}
